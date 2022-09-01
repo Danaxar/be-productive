@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Danaxar/be-productive#readme",
   "dependencies": {
     "python-shell": "^3.0.1"
+  },
+  "devDependencies": {
+    "electron": "^20.1.1"
   }
 }

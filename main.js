@@ -14,7 +14,7 @@ const createWindow = () => {
 app.whenReady().then(() => {
   createWindow()
 
-PythonShell.run('script.py', null, function (err) {
+PythonShell.run('killer.py', null, function (err) {
   if (err) throw err;
   console.log('finished');
 });
