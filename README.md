@@ -10,7 +10,7 @@ Just open. Now read something, be productive or I don't know.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-  - Requeriments
+Requeriments
   
   * [Python 3.7+](https://www.python.org)
   * [Node.JS](https://nodejs.org/en/)
