@@ -1,0 +1,22 @@
+{
+  "name": "be-productive",
+  "version": "1.0.0",
+  "description": "We close the trash for you. 🗑️",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danaxar/be-productive.git"
+  },
+  "author": "Bastián Escribano & Daniel Catalán",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danaxar/be-productive/issues"
+  },
+  "homepage": "https://github.com/Danaxar/be-productive#readme",
+  "dependencies": {
+    "python-shell": "^3.0.1"
+  }
+}
