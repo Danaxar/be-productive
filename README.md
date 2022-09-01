@@ -12,9 +12,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Requirements
   
-  * [Python 3.7+](https://www.python.org)
-  * [Node.JS](https://nodejs.org/en/)
-  * [Electron.JS](https://www.electronjs.org)
+  * [Python 3.7 or higher](https://www.python.org)
+  * [node.js](https://nodejs.org/en/)
+  * [electron.js](https://www.electronjs.org)
   * [python-shell](https://www.npmjs.com/package/python-shell)
   
  
