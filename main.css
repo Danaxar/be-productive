@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+
+.beproductive {
+    position: relative;
+    top: 5vh;
+    padding: 3vh;
+}
+
+.text {
+    font-size: 3.5em;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.subtext {
+    position: relative;
+    font-size: 1.3em;
+    display: block;
+    color: rgb(146, 142, 142);
+    font-family: 'Roboto Mono', monospace;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 1px;
+}
+
+button{
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10vh;
+    padding: 3vh;
+    font-weight: bold;
+    padding-inline: 7vh;
+    font-size: 2em;
+    border-radius: 10px;
+}
